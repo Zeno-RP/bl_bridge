@@ -37,8 +37,7 @@ Config = {
             qb = 'qb-core',
             ox = 'ox_core',
             qbx = 'qbx_core',
-            esx = 'es_extended',
-            core = 'core',
+            esx = 'es_extended'
         },
         context = {
             qb = 'qb-menu',
